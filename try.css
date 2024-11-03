@@ -1,0 +1,9 @@
+.firstp {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: large;
+  color: rgb(0, 0, 0);
+}
+.firstp:hover {
+  color: blue;
+}
